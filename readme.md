@@ -14,7 +14,7 @@ The courses are free with certificates.
   * Learn the core ideas in machine learning, and build your first models.
   
 * Intermediate Machine Learning
- * Handle missing values, non-numeric values, data leakage, and more.
+  * Handle missing values, non-numeric values, data leakage, and more.
  
 * Pandas
   * Solve short hands-on challenges to perfect your data manipulation skills.
