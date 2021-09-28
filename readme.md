@@ -6,13 +6,12 @@ Gain the skills you need to do independent data science projects.
 The courses are free with certificates.
 ```
 
-## Completed
+## <div align='center'>Completed</div>
 * Python
 
-Explore Courses
-Intro to Machine Learning
-Intro to Machine Learning
-Learn the core ideas in machine learning, and build your first models.
+## <div align='center'>Courses to be completed</div>
+* Intro to Machine Learning
+  * Learn the core ideas in machine learning, and build your first models.
 Intermediate Machine Learning
 Intermediate Machine Learning
 Handle missing values, non-numeric values, data leakage, and more.
