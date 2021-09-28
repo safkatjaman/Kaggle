@@ -7,7 +7,7 @@ The courses are free with certificates.
 ```
 
 ## Completed
-1.Python
+* Python
 
 Explore Courses
 Intro to Machine Learning
