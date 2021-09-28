@@ -5,9 +5,9 @@ Gain the skills you need to do independent data science projects.
 
 The courses are free with certificates.
 ```
-```
+
 ## Completed
-Python
+1.Python
 
 Explore Courses
 Intro to Machine Learning
@@ -55,5 +55,3 @@ Distinguish yourself by learning to work with text data.
 Intro to Game AI and Reinforcement Learning
 Intro to Game AI and Reinforcement Learning
 Build your own video game bots, using classic and cutting-edge algorithms.
-
-```
